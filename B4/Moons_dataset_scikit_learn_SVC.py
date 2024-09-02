@@ -14,7 +14,7 @@ model.fit(X_train, y_train)
 
 y_pred = model.predict(X_test)
 accuracy = accuracy_score(y_test, y_pred)
-print(f'Accuracy: {accuracy:.2f}')
+print(f'Accuracy: {accuracy}')
 
 def plot_decision_boundary(model, X, y):
     x_min, x_max = X[:, 0].min() - 0.5, X[:, 0].max() + 0.5
