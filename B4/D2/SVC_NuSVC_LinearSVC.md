@@ -9,13 +9,14 @@
 ### Simulation Results:
 
 1. SVC (Support Vector Classifier): **Accuracy:** Approximately 0.9766666666666667
-   ![1725250243350](https://file+.vscode-resource.vscode-cdn.net/d%3A/Hocmay/Machine-Learning/B4/image/SVC_NuSVC_LinearSVC/1725250243350.png)
+
+   ![1725252678796](image/SVC_NuSVC_LinearSVC/1725252678796.png)
 2. NuSVC (Nu Support Vector Classifier): **Accuracy:** Approximately 0.91
 
-   ![1725250381618](image/SVC_NuSVC_LinearSVC/1725250381618.png)
+   ![1725252693606](image/SVC_NuSVC_LinearSVC/1725252693606.png)
 3. LinearSVC (Linear Support Vector Classifier): **Accuracy:** Approximately 0.8766666666666667
 
-   ![1725250437044](image/SVC_NuSVC_LinearSVC/1725250437044.png)
+   ![1725252706947](image/SVC_NuSVC_LinearSVC/1725252706947.png)
 
 ### Results and Observations:
 
